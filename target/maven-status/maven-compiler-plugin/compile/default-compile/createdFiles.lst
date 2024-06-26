@@ -1,0 +1,6 @@
+org/olmis/resource/GreetingResource.class
+org/olmis/engine/CampaignEngine.class
+org/olmis/model/request/CampaignRequest.class
+org/olmis/resource/PropertyReader.class
+org/olmis/engine/CampaignApplication.class
+org/olmis/resource/CampaignResource.class
